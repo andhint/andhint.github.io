@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Hintermeier"
-  avatar           : "/assests/images/profile.png"
+  avatar           : "profile.png"
   bio              : #"Bio test"
   location         : "Buffalo, NY"
   email            : "andrew.hintermeier@gmail.com"
