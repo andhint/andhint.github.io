@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Andrew Hintermeier"
 description              : #"An amazing website."
@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Hintermeier"
-  avatar           : "/assest/img/profile.png"
-  bio              : "Bio test"
+  avatar           : #"/assest/img/profile.png"
+  bio              : #"Bio test"
   location         : "Buffalo, NY"
   email            : "andrew.hintermeier@gmail.com"
   uri              :
