@@ -1,8 +1,8 @@
 ---
-title:  "My first post!"
+title:  "A look at the Apollo 13 transcript"
 date:   2017-01-21 15:04:23
-categories: [machine-learning]
-tags: [machine-learning]
+categories: [data-analysis]
+tags: [data-anlysis]
 header:
   image: /images/bg.JPG
 ---
