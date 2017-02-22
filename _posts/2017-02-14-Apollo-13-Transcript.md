@@ -7,11 +7,7 @@ header:
   image: /images/bg.JPG
 ---
 
-
-<b>Apollo 13 Transcript Exploratory Analysis</b>
-
-The goal is to examine the transcript from the Apollo 13 mission to see if any interesting insights can be gleamed. The Apollo 13 was the famous mission to the moon that almost ended in disaster when an oxygen tank on board exploded.
-
+I recently came across the transcript for the famous Apollo 13 mission to the moon that almost ended in disaster when an oxygen tank on board exploded. I decided to clean it up a bit and see if I could find anything interesting.
 
 ```python
 %matplotlib inline
@@ -431,7 +427,7 @@ plt.show()
 ![png](/images/Apollo_13_Exploratory_Analysis_files/Apollo_13_Exploratory_Analysis_17_0.png)
 
 
-My main question from these two plots was: what was the reason for the three gaps seen in the data? My  first thought was that these were periods in the mission where there was no radio signal due to positioning, rentry, etc. However, the two larger gaps are quite a few hours long so this seems unlikely. By checking the messages around these gaps, it becomes obvious these were just times when the astronauts were sleeping.
+There are a few noticable gaps in the data from both plots. My first thought was that these were periods in the mission where there was no radio signal due to positioning, rentry, etc. However, the two larger gaps are quite a few hours long so this seems unlikely. By checking the messages around these gaps, it becomes obvious these were just times when the astronauts were sleeping.
 
 From the first gap:
 
