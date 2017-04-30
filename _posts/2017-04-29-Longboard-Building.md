@@ -1,5 +1,5 @@
 ---
-title:  "Buffalo Data Science Talk"
+title:  "Longboard Building"
 date:   2017-04-29 15:04:23
 categories: []
 tags: []
@@ -40,7 +40,7 @@ When we made our cuts in the foam, we would tack wooden templates on the side to
 
 # Putting It All Together
 
-![png](/images/Longboard_photos/exploded_view.JPEG)
+![jpeg](/images/Longboard_photos/exploded_view.JPEG)
 
 Now everything can be combined and a board can be pressed. First, the mold needs to be attached to the press. We would use a light spray adhesive so it would stay in place during pressing but could be removed when we wanted a different mold. Next, a stack of plies is glued up with glue on every side except the top and bottom. Only a thin layer is necessary, we aimed to use enough to cover it and still see the grain through the glue. Much of the glue will be pressed out of the plies during pressing so too much will just be a waste anyways. 
 
