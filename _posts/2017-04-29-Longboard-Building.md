@@ -34,7 +34,10 @@ We would take two sheets of plywood cut to 16"x48" and drill holes for the carri
 
 The idea with our mold was to cut a positive and negative mold from one rectangular piece of foam. We found that using blue insulation foam worked really well. To make cuts in the foam we created our own hot wire foam cutter. A hot wire foam cutter has a special kind of wire (nichrome or even steel guitar strings) pulled tautly between two points. A current is run through it so that it heats up and makes a clean cut when it passes through foam. There are number of ways to do this, but we made one with some 1"x2"s and a transformer from RadioShack. If you plan on making one, include a tensioner as the wire will expand when it heats up.
 
-By carefully planning the cuts a positive and negative mold can be made from one piece of foam. The process for making a mold with concave and camber can be a bit hard to wrap your head around so hopefully the pictures will clear it up. Basically, it involves making cut for the convave from one side and cut from the other for the concave. The pieces are then rearranged so that when pressed flat the end result has the right curves. 
+By carefully planning the cuts a positive and negative mold can be made from one piece of foam. The process for making a mold with concave and camber can be a bit hard to wrap your head around so hopefully the pictures will clear it up. Basically, it involves making cut for the convave from one side and cut from the other for the concave. The pieces are then rearranged so that when pressed flat the end result has the right curves. Looking at the picture, the middle piece will become the positive mold. The top part of it will be pressed against one side of the press so it will lay flat. For the negative part of the mold, glue the two remaining pieces together on the flat portions then press against the other side of the press so it lays flat. This is a hard thing to explain unless you have it sitting in front of you, I hope my pictures/explanation does it some justice.
+
+![jpg](/images/Longboard_photos/foam_cuts.jpg)
+
 
 When we made our cuts in the foam, we would tack wooden templates on the side to guide our cuts. Sometimes it might be necessary to chop the mold into smaller sections depending on the size of your hot wire cutter.
 
