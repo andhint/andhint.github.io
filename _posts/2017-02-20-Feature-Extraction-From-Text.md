@@ -387,7 +387,7 @@ For this simple example refitting and transforming seems to be the correct thing
 # creating DTMs
 vect = CountVectorizer()
 X_train_dtm = vect.fit_transform(X_train)
-X_test_dtm = vect.fit(X_test)
+X_test_dtm = vect.transform(X_test)
 
 # creating and training logistic regression model
 logreg = LogisticRegression()
